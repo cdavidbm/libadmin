@@ -84,7 +84,7 @@ Para obtener una copia local y ponerla en funcionamiento, sigue estos simples pa
 
 1. **Clona el repositorio**
    ```sh
-   git clone https://github.com/tu-usuario/library-management-system.git
+   git clone https://github.com/cdavidbm/libadmin.git
    ```
 2. **Instala las dependencias**
    ```sh
